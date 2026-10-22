@@ -1,0 +1,6 @@
+{
+  "name": "Namma Cricket",
+  "description": "Grassroots cricket scoring, real-time ball-by-ball commentary, player statistics, tournament management, and video highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
